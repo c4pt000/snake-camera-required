@@ -10,3 +10,11 @@ similar to ultrasonic room imaging but just regular sound wave phonons instead o
 phonographic imaging
 
 https://en.wikipedia.org/wiki/Human_echolocation
+
+
+https://www.vox.com/2014/11/7/7171119/blind-sonar-echolocation
+
+
+as a view finder
+
+
