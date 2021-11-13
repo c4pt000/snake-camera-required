@@ -14,6 +14,12 @@ https://en.wikipedia.org/wiki/Human_echolocation
 
 https://www.vox.com/2014/11/7/7171119/blind-sonar-echolocation
 
+the audio wave is modulated demodulated
+
+as audio eaves based on height of max and min
+
+to determine density distance and texture from phonographic imaging
+
 
 as a view finder
 
